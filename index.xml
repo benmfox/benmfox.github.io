@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hi there, I&#39;m Ben on </title>
+    <link>https://benmfox.github.io/</link>
+    <description>Recent content in hi there, I&#39;m Ben on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://benmfox.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://benmfox.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benmfox.github.io/about/</guid>
+      <description>I am a PhD student at the Icahn School of Medicine at Mt. Sinai in the Artificial Intelligence and Emerging Technologies training area. I do physiological time series machine learning modeling utilizing wearables and sensors data. I previously worked at Evidation Health as a senior data scientist. I have 5+ years experience applying statistical and machine learning models to medical data sets in academic research and health technology settings, as well as expertise in wrangling, mining, analyzing, and visualizing data.</description>
+    </item>
+    <item>
+      <title>Research Projects</title>
+      <link>https://benmfox.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benmfox.github.io/research/</guid>
+      <description>For the most up to date publications, see my Google Scholar&#xA;Contents:&#xA;Metabolomics AKI and the Heart Masters Project Physics Research PMAFs Longyearbyen, Norway American Geophysical Union Conferences Other Research Metabolomics My published research is primarily in the field of metabolomics. Metabolomics is the large-scale study of small organic molecules (metabolites) within an organism, tissue, or cell. Metabolites are defined as molecules that are less than 1,500 Daltons (or atomic mass units; 1 Dalton ≈ 1 hydrogen atom in mass).</description>
+    </item>
+    <item>
+      <title>Running and Hiking Routes</title>
+      <link>https://benmfox.github.io/running/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benmfox.github.io/running/</guid>
+      <description>Running is great!&#xA;Check out my running route map! If on mobile, this one works better.</description>
+    </item>
+  </channel>
+</rss>
